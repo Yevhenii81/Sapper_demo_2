@@ -155,14 +155,14 @@ public:
 	}
 
 	//метод, который проверяет 
-	bool IsWall(int x, int y)
+	/*bool IsWall(int x, int y)
 	{
 		if (map[x][y] == WALL)
 		{
 			return true;
 		}
 		return false;
-	}
+	}*/
 };
 
 class Cell
